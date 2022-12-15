@@ -15,4 +15,5 @@ EBI-YamnaOuchtar contains the pipeline code.
 Report contains the report discussion.
 
 ## Note:
-To launch the Jupyter notebook file you need to save the Image file on the same folder or you can change the path, also called directory, on the vector_of_images function to you own path. Neverless, all the images need to be saved in the same folder.  
+To run the Jupyter notebook file, you must save the Image folder in the same folder as the jupyter-notebook file or you can change the path, also called directory, of the vector_of_images function to your own path. However, all images must be saved in the same folder.  
+  
