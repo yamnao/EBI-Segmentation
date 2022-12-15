@@ -8,3 +8,8 @@ pip install numpy
 pip install plotly
 pip install matplotlib
 ```
+
+## Files
+
+EBI-YamnaOuchtar contains the pipeline code.
+Report contains the report discussion.
